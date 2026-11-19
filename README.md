@@ -13,7 +13,8 @@ NetScope is a Python-based network traffic monitoring and packet analysis applic
 | 3 | *Srishti* | *2024UCA1923* |
 | 4 | *Geetu Sharma* | *2024UCA1937* |
 
-**CSAI - 2** 
+**CSAI-2 | Semester-5**
+
 **Course:** Computer Networks   
 **Repository:** https://github.com/poorva-tehlan/NetScope/
 
